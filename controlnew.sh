@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello!
+printf "Welcome 2 _unkn0wn...\n"
